@@ -1,6 +1,8 @@
 # SMLcompiler
 a Kargah project :D
+
 Known bugs :
+
 1.results are one more (+1)
 
 2.will not catch identifires in some situations 
