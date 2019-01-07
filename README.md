@@ -1,5 +1,5 @@
 # SMLcompiler
-a Kargah project :D
+its only a small university project :)
 
 Known bugs :
 
@@ -7,7 +7,7 @@ Known bugs :
 
 2.will not catch identifires in some situations 
 
-3.a crazy value in array will be show at end of results :)
+3.a crazy value in array will be show at end of results :D
 
 but its ok ;)
 
